@@ -13,7 +13,7 @@ export const Certification = () => {
       <div className="h-full w-full flex flex-col grid grid-cols-4 md:flex-row gap-10 px-10">
         {CERTIFICATIONS.map((project) => (
           <CertificationCard
-            // key={project.title}
+            key={project.title}
             src={project.image}
             title={project.title}
             // description={project.description}
