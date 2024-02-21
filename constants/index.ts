@@ -1,4 +1,6 @@
+import { BsMailbox } from "react-icons/bs";
 import { FaYoutube, FaFacebook } from "react-icons/fa";
+import { GiMailbox } from "react-icons/gi";
 import {
   RxDiscordLogo,
   RxGithubLogo,
@@ -27,104 +29,104 @@ export const SKILL_DATA = [
     height: 65,
   },
   {
-    skill_name: "Tailwind CSS",
-    image: "tailwind.png",
-    width: 80,
-    height: 80,
+    skill_name: "SASS",
+    image: "sass.png",
+    width: 65,
+    height: 65,
   },
   {
-    skill_name: "React",
-    image: "react.png",
-    width: 80,
-    height: 80,
+    skill_name: "WordPress",
+    image: "wordpress.png",
+    width: 70,
+    height: 70,
   },
   {
-    skill_name: "Redux",
-    image: "redux.png",
-    width: 80,
-    height: 80,
+    skill_name: "Wix",
+    image: "wix.png",
+    width: 70,
+    height: 70,
   },
-  {
-    skill_name: "React Query",
-    image: "reactquery.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "TypeScript",
-    image: "ts.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Next.js 14",
-    image: "next.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Framer Motion",
-    image: "framer.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Stripe",
-    image: "stripe.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Node.js",
-    image: "node.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "MongoDB",
-    image: "mongodb.png",
-    width: 40,
-    height: 40,
-  },
+  // {
+  //   skill_name: "React Query",
+  //   image: "reactquery.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "TypeScript",
+  //   image: "ts.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "Next.js 14",
+  //   image: "next.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "Framer Motion",
+  //   image: "framer.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "Stripe",
+  //   image: "stripe.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "Node.js",
+  //   image: "node.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "MongoDB",
+  //   image: "mongodb.png",
+  //   width: 40,
+  //   height: 40,
+  // },
 ] as const;
 
 export const SOCIALS = [
   {
-    name: "Instagram",
-    icon: RxInstagramLogo,
-    link: "https://instagram.com",
+    name: "Contact",
+    icon: BsMailbox,
+    link: "#contact",
   },
-  {
-    name: "Facebook",
-    icon: FaFacebook,
-    link: "https://facebook.com",
-  },
-  {
-    name: "Twitter",
-    icon: RxTwitterLogo,
-    link: "https://twitter.com",
-  },
+  // {
+  //   name: "Facebook",
+  //   icon: FaFacebook,
+  //   link: "https://facebook.com",
+  // },
+  // {
+  //   name: "Twitter",
+  //   icon: RxTwitterLogo,
+  //   link: "https://twitter.com",
+  // },
 ] as const;
 
 export const FRONTEND_SKILL = [
-  {
-    skill_name: "HTML",
-    image: "html.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "CSS",
-    image: "css.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "JavaScript",
-    image: "js.png",
-    width: 65,
-    height: 65,
-  },
+  // {
+  //   skill_name: "HTML",
+  //   image: "html.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "CSS",
+  //   image: "css.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "JavaScript",
+  //   image: "js.png",
+  //   width: 65,
+  //   height: 65,
+  // },
   {
     skill_name: "Tailwind CSS",
     image: "tailwind.png",
@@ -222,27 +224,26 @@ export const BACKEND_SKILL = [
 
 export const FULLSTACK_SKILL = [
   {
-    skill_name: "React Native",
-    image: "reactnative.png",
-    width: 70,
-    height: 70,
-  },
-  {
-    skill_name: "Tauri",
-    image: "tauri.png",
-    width: 70,
-    height: 70,
-  },
-  {
-    skill_name: "Docker",
-    image: "docker.png",
-    width: 70,
-    height: 70,
-  },
-
-  {
     skill_name: "Figma",
     image: "figma.png",
+    width: 30,
+    height: 30,
+  },
+  {
+    skill_name: "XD",
+    image: "xd.png",
+    width: 50,
+    height: 50,
+  },
+  {
+    skill_name: "Ps",
+    image: "ps.png",
+    width: 50,
+    height: 50,
+  },
+  {
+    skill_name: "Ai",
+    image: "ai.png",
     width: 50,
     height: 50,
   },
@@ -259,25 +260,249 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "Modern Next.js 14 Portfolio",
+    title: "地域の美容院",
     description:
-      'Embark on a journey through my professional evolution with the "Modern Next.js Portfolio" - a dynamic showcase of my skills, experiences, and passion for web development. Crafted with precision and powered by Next.js, this portfolio is more than just a static display; it\'s an immersive experience that reflects the cutting edge of modern web technologies.',
-    image: "/projects/project-1.png",
-    link: "https://example.com",
+      '女性らしいデザイン',
+    image: "/projects/salon.png",
+    link: "https://bans-bd.jp/",
   },
   {
-    title: "Interactive Cards Portfolio",
+    title: "大手会社",
     description:
-      'Step into the extraordinary world of my professional journey through the "Interactive Cards Portfolio" - an innovative and visually captivating platform that redefines the traditional portfolio experience. Ditching the conventional static layout, this portfolio leverages interactive cards to showcase my skills, projects, and personality in an engaging and dynamic manner.',
-    image: "/projects/project-2.png",
-    link: "https://example.com",
+      '大手らしい新しいデザイン',
+    image: "/projects/recruit.png",
+    link: "https://recruit.sas-com.com/",
   },
   {
-    title: "Space Themed Website",
+    title: "配送業者",
     description:
-      'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
-    image: "/projects/project-3.png",
-    link: "https://example.com",
+      '力強く男らしいイメージ',
+    image: "/projects/butsuryu.png",
+    link: "https://www.sanyu-butsuryu.com/",
+  },
+  {
+    title: "保育園",
+    description:
+      'イラスト多様しグラフィカルなイメージ',
+    image: "/projects/midorigaoka.png",
+    link: "https://www.midorigaoka-hoiku.com/",
+  },
+  {
+    title: "スポーツジム",
+    description:
+      '躍動感あるイメージ',
+    image: "/projects/arrowz.png",
+    link: "https://www.sports-science.co.jp/arrowz-gym/",
+  },
+  {
+    title: "地域のカフェ",
+    description:
+      'ポップな地域カフェのイメージ',
+    image: "/projects/caferob.png",
+    link: "https://caferob.com/",
+  },  
+  {
+    title: "地域の病院",
+    description:
+      '信頼感のある地域感',
+    image: "/projects/takedc.png",
+    link: "https://www.takedc.com/",
+  },
+  {
+    title: "職人系",
+    description:
+      '堅さ、信頼さ',
+    image: "/projects/marutoku.png",
+    link: "https://www.marutoku-tk.co.jp/",
+  },
+  {
+    title: "hacomono",
+    description:
+      'アプリ・ソフトウェア',
+    image: "/projects/hacomono.png",
+    link: "https://www.hacomono.jp/",
+  },
+  {
+    title: "楽商",
+    description:
+      'アプリ・ソフトウェア',
+    image: "/projects/rakusyo.png",
+    link: "https://www.rakusyo.jp/",
+  },
+  {
+    title: "Act（アクトチェア）",
+    description:
+      'インテリア・雑貨',
+    image: "/projects/itoki.png",
+    link: "https://www.itoki.jp/",
+  },
+  {
+    title: "みんなの発酵BLEND",
+    description:
+      'キッチン・料理・レシピ',
+    image: "/projects/hakko.png",
+    link: "https://www.hakko-blend.com/",
+  },
+  {
+    title: "Y-YACHT STORE &(COOK)",
+    description:
+      'キッチン・料理・レシピ',
+    image: "/projects/yacht.png",
+    link: "https://store.y-yacht.co.jp/",
+  },
+  {
+    title: "地味弁",
+    description:
+      'キッチン・料理・レシピ',
+    image: "/projects/jimiben.png",
+    link: "https://jimiben.com/",
+  },
+  {
+    title: "澤田株式会社",
+    description:
+      'コーポレートサイト・事務所',
+    image: "/projects/swada.png",
+    link: "https://www.sawada-co-ltd.co.jp/",
+  },
+  {
+    title: "Dive｜株式会社ダイブ",
+    description:
+      'コーポレートサイト・事務所 / STUDIO',
+    image: "/projects/dive.png",
+    link: "https://dive.design/",
+  },
+  {
+    title: "LUUP（ループ）",
+    description:
+      'コーポレートサイト・事務所',
+    image: "/projects/luup.png",
+    link: "https://luup.sc/",
+  },
+  {
+    title: "(株)中川商会",
+    description:
+      'コーポレートサイト・事務所',
+    image: "/projects/nakagawashokai.png",
+    link: "https://www.nakagawashokai.co.jp/",
+  },
+  {
+    title: "セントパーツ",
+    description:
+      'コーポレートサイト・事務所',
+    image: "/projects/saintparts.png",
+    link: "https://www.saintparts.co.jp/",
+  },
+  {
+    title: "wofa | 里山農業を、心うごく世界に",
+    description:
+      'コーポレートサイト・事務所',
+    image: "/projects/wofa.png",
+    link: "https://wofa.jp/",
+  },
+  {
+    title: "お丸山ホテル",
+    description:
+      'ホテル・旅館',
+    image: "/projects/omaruyama.png",
+    link: "https://omaruyama.jp/",
+  },
+  {
+    title: "とまとと",
+    description:
+      'ホテル・旅館',
+    image: "/projects/tomatoto.png",
+    link: "https://tomatoto.jp/",
+  },
+  {
+    title: "grav bicycle",
+    description:
+      'レジャー・アウトドア',
+    image: "/projects/gravbicycle.png",
+    link: "https://gravbicycle.com/",
+  },
+  {
+    title: "Ork「いなか、なかなか」",
+    description:
+      'レジャー・アウトドア',
+    image: "/projects/hirugano.png",
+    link: "https://ork-hirugano.co.jp/",
+  },
+  {
+    title: "社会福祉法人 慈楽福祉会",
+    description:
+      '地域情報',
+    image: "/projects/jiraku.png",
+    link: "https://jiraku.or.jp/",
+  },
+  {
+    title: "社会福祉法人 たまきな荘",
+    description:
+      '地域情報',
+    image: "/projects/tamakinaso.png",
+    link: "https://tamakinaso.net/",
+  },
+  {
+    title: "女川で生み出す",
+    description:
+      '地域情報',
+    image: "/projects/shinetsu.png",
+    link: "https://shinetsu-shizenkyo.com/",
+  },
+  {
+    title: "OIC｜専門学校 岡山情報ビジネス学院",
+    description:
+      '学校・教育',
+    image: "/projects/oic.png",
+    link: "https://www.oic-ok.ac.jp/",
+  },
+  {
+    title: "ナカジマ薬局",
+    description:
+      '病院・医療・薬品',
+    image: "/projects/nakajima.png",
+    link: "https://www.nakajima-phar.co.jp/",
+  },
+  {
+    title: "帯広居酒屋「串焼き・創作料理　よにき」",
+    description:
+      '飲食・レストラン・カフェ',
+    image: "/projects/yoniki.png",
+    link: "https://yoniki.jp/",
+  },
+] as const;
+
+export const CERTIFICATION = [
+  {
+    title: "CSS",
+    image: "/projects/CSS.png",
+  },
+  {
+    title: "Javascript",
+    image: "/projects/Javasript.png",
+  },
+  {
+    title: "SQL(Basic)",
+    image: "/projects/SQL(Basic).png",
+  },
+  {
+    title: "React",
+    image: "/projects/React.png",
+  },
+  {
+    title: "RestAPI",
+    image: "/projects/RestApi.png",
+  },
+  {
+    title: "Python",
+    image: "/projects/Python.png",
+  },
+  {
+    title: "Java",
+    image: "/projects/Java.png",
+  },
+  {
+    title: "Golang",
+    image: "/projects/Golang.png",
   },
 ] as const;
 
@@ -306,27 +531,27 @@ export const FOOTER_DATA = [
     title: "Social Media",
     data: [
       {
-        name: "Instagram",
-        icon: RxInstagramLogo,
-        link: "https://instagram.com",
+        name: "email",
+        icon: GiMailbox,
+        link: "#contact",
       },
-      {
-        name: "Twitter",
-        icon: RxTwitterLogo,
-        link: "https://twitter.com",
-      },
-      {
-        name: "Linkedin",
-        icon: RxLinkedinLogo,
-        link: "https://linkedin.com",
-      },
+      // {
+      //   name: "Twitter",
+      //   icon: RxTwitterLogo,
+      //   link: "https://twitter.com",
+      // },
+      // {
+      //   name: "Linkedin",
+      //   icon: RxLinkedinLogo,
+      //   link: "https://linkedin.com",
+      // },
     ],
   },
   {
     title: "About",
     data: [
       {
-        name: "Become Sponsor",
+        name: "中村邦彦",
         icon: null,
         link: "https://youtube.com",
       },
@@ -346,16 +571,20 @@ export const FOOTER_DATA = [
 
 export const NAV_LINKS = [
   {
-    title: "About me",
+    title: "自己紹介",
     link: "#about-me",
   },
   {
-    title: "Skills",
+    title: "スキル",
     link: "#skills",
   },
   {
-    title: "Projects",
+    title: "製作事例",
     link: "#projects",
+  },
+  {
+    title: "認証",
+    link: "#certification",
   },
 ] as const;
 

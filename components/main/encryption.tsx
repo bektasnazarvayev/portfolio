@@ -13,11 +13,11 @@ export const Encryption = () => {
           variants={slideInFromTop}
           className="text-[40px] font-medium text-center text-gray-200"
         >
-          Performance{" "}
+          SEO{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
             &
           </span>{" "}
-          security.
+          セキュリティ
         </motion.div>
       </div>
 
@@ -40,13 +40,13 @@ export const Encryption = () => {
         </div>
 
         <div className="Welcome-box px-[15px] py-[4px] z-[20] border my-[20px] border-[#7042F88B] opacity-[0.9]">
-          <h1 className="Welcome-text text-[12px]">Encryption</h1>
+          <h1 className="Welcome-text text-[12px]">セキュリティ</h1>
         </div>
       </div>
 
       <div className="absolute z-[20] bottom-[10px] px-[5px]">
-        <div className="cursive text-[20px] font-medium text-center text-gray-300">
-          Secure your data with end-to-end encryption.
+        <div className="cursive w-[50%] mx-auto text-[16px] leading-[30px] font-medium text-center text-gray-300">
+          私はWordPressを活用したWebサイトのSEO対策とセキュリティにおいて、豊富な専門知識と実践的な経験を持っています。検索エンジン最適化のための適切なキーワード戦略やメタデータ最適化、さらには外部リンク戦略などを通じて、クライアントのサイトの上位表示を促進します。また、セキュリティ面では、防御策の強化やマルウェア対策などを実施し、クライアントのWebサイトを安全に保護します。
         </div>
       </div>
 

@@ -66,6 +66,7 @@
     }
   ],
   "dependencies": {
+    "@emailjs/browser": "^4.1.0",
     "@heroicons/react": "^2.1.1",
     "@react-three/drei": "^9.93.0",
     "@react-three/fiber": "^8.15.13",
