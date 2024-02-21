@@ -1,5 +1,5 @@
 import { CertificationCard } from "@/components/sub/certification-card";
-import { CERTIFICATION } from "@/constants";
+import { CERTIFICATIONS } from "@/constants";
 
 export const Certification = () => {
   return (
@@ -11,7 +11,7 @@ export const Certification = () => {
           認証
       </h1>
       <div className="h-full w-full flex flex-col grid grid-cols-4 md:flex-row gap-10 px-10">
-        {CERTIFICATION.map((project) => (
+        {CERTIFICATIONS.map((project) => (
           <CertificationCard
             // key={project.title}
             src={project.image}

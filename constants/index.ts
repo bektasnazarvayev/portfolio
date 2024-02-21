@@ -471,7 +471,7 @@ export const PROJECTS = [
   },
 ] as const;
 
-export const CERTIFICATION = [
+export const CERTIFICATIONS = [
   {
     title: "CSS",
     image: "/projects/CSS.png",
