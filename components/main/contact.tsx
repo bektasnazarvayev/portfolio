@@ -11,17 +11,17 @@ export const Contact = () => {
   const sendEmail = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     if (
-      process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID &&
-      process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID &&
-      process.env.NEXT_PUBLIC_EMAILJS_USER_ID &&
+      "service_23378dm" &&
+      "template_vl5wv1k" &&
+      "nVpQgSHYfkJdGbdmv" &&
       form.current
     ) {
       emailjs
         .sendForm(
-          process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID,
-          process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID,
+          "nVpQgSHYfkJdGbdmv",
+          "template_vl5wv1k",
           form.current,
-          process.env.NEXT_PUBLIC_EMAILJS_USER_ID
+          "nVpQgSHYfkJdGbdmv"
         )
         .then(
           (result) => {
