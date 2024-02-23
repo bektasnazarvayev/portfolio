@@ -441,13 +441,13 @@ export const PROJECTS = [
   //   image: "/projects/tamakinaso.png",
   //   link: "https://tamakinaso.net/",
   // },
-  {
-    title: "女川で生み出す",
-    description:
-      '地域情報',
-    image: "/projects/shinetsu.png",
-    link: "https://shinetsu-shizenkyo.com/",
-  },
+  // {
+  //   title: "女川で生み出す",
+  //   description:
+  //     '地域情報',
+  //   image: "/projects/shinetsu.png",
+  //   link: "https://shinetsu-shizenkyo.com/",
+  // },
   // {
   //   title: "OIC｜専門学校 岡山情報ビジネス学院",
   //   description:
