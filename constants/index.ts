@@ -46,48 +46,6 @@ export const SKILL_DATA = [
     width: 70,
     height: 70,
   },
-  // {
-  //   skill_name: "React Query",
-  //   image: "reactquery.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "TypeScript",
-  //   image: "ts.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "Next.js 14",
-  //   image: "next.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "Framer Motion",
-  //   image: "framer.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "Stripe",
-  //   image: "stripe.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "Node.js",
-  //   image: "node.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "MongoDB",
-  //   image: "mongodb.png",
-  //   width: 40,
-  //   height: 40,
-  // },
 ] as const;
 
 export const SOCIALS = [
@@ -96,37 +54,9 @@ export const SOCIALS = [
     icon: BsMailbox,
     link: "#contact",
   },
-  // {
-  //   name: "Facebook",
-  //   icon: FaFacebook,
-  //   link: "https://facebook.com",
-  // },
-  // {
-  //   name: "Twitter",
-  //   icon: RxTwitterLogo,
-  //   link: "https://twitter.com",
-  // },
 ] as const;
 
 export const FRONTEND_SKILL = [
-  // {
-  //   skill_name: "HTML",
-  //   image: "html.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "CSS",
-  //   image: "css.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "JavaScript",
-  //   image: "js.png",
-  //   width: 65,
-  //   height: 65,
-  // },
   {
     skill_name: "Tailwind CSS",
     image: "tailwind.png",
@@ -315,13 +245,6 @@ export const PROJECTS = [
     image: "/projects/marutoku.png",
     link: "https://www.marutoku-tk.co.jp/",
   },
-  // {
-  //   title: "hacomono",
-  //   description:
-  //     'アプリ・ソフトウェア',
-  //   image: "/projects/hacomono.png",
-  //   link: "https://www.hacomono.jp/",
-  // },
   {
     title: "楽商",
     description:
@@ -357,41 +280,6 @@ export const PROJECTS = [
     image: "/projects/jimiben.png",
     link: "https://jimiben.com/",
   },
-  // {
-  //   title: "澤田株式会社",
-  //   description:
-  //     'コーポレートサイト・事務所',
-  //   image: "/projects/swada.png",
-  //   link: "https://www.sawada-co-ltd.co.jp/",
-  // },
-  // {
-  //   title: "Dive｜株式会社ダイブ",
-  //   description:
-  //     'コーポレートサイト・事務所 / STUDIO',
-  //   image: "/projects/dive.png",
-  //   link: "https://dive.design/",
-  // },
-  // {
-  //   title: "LUUP（ループ）",
-  //   description:
-  //     'コーポレートサイト・事務所',
-  //   image: "/projects/luup.png",
-  //   link: "https://luup.sc/",
-  // },
-  // {
-  //   title: "(株)中川商会",
-  //   description:
-  //     'コーポレートサイト・事務所',
-  //   image: "/projects/nakagawashokai.png",
-  //   link: "https://www.nakagawashokai.co.jp/",
-  // },
-  // {
-  //   title: "セントパーツ",
-  //   description:
-  //     'コーポレートサイト・事務所',
-  //   image: "/projects/saintparts.png",
-  //   link: "https://www.saintparts.co.jp/",
-  // },
   {
     title: "wofa | 里山農業を、心うごく世界に",
     description:
@@ -399,20 +287,6 @@ export const PROJECTS = [
     image: "/projects/wofa.png",
     link: "https://wofa.jp/",
   },
-  // {
-  //   title: "お丸山ホテル",
-  //   description:
-  //     'ホテル・旅館',
-  //   image: "/projects/omaruyama.png",
-  //   link: "https://omaruyama.jp/",
-  // },
-  // {
-  //   title: "とまとと",
-  //   description:
-  //     'ホテル・旅館',
-  //   image: "/projects/tomatoto.png",
-  //   link: "https://tomatoto.jp/",
-  // },
   {
     title: "grav bicycle",
     description:
@@ -427,34 +301,6 @@ export const PROJECTS = [
     image: "/projects/hirugano.png",
     link: "https://ork-hirugano.co.jp/",
   },
-  // {
-  //   title: "社会福祉法人 慈楽福祉会",
-  //   description:
-  //     '地域情報',
-  //   image: "/projects/jiraku.png",
-  //   link: "https://jiraku.or.jp/",
-  // },
-  // {
-  //   title: "社会福祉法人 たまきな荘",
-  //   description:
-  //     '地域情報',
-  //   image: "/projects/tamakinaso.png",
-  //   link: "https://tamakinaso.net/",
-  // },
-  // {
-  //   title: "女川で生み出す",
-  //   description:
-  //     '地域情報',
-  //   image: "/projects/shinetsu.png",
-  //   link: "https://shinetsu-shizenkyo.com/",
-  // },
-  // {
-  //   title: "OIC｜専門学校 岡山情報ビジネス学院",
-  //   description:
-  //     '学校・教育',
-  //   image: "/projects/oic.png",
-  //   link: "https://www.oic-ok.ac.jp/",
-  // },
   {
     title: "ナカジマ薬局",
     description:
