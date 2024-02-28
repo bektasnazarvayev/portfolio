@@ -381,16 +381,6 @@ export const FOOTER_DATA = [
         icon: GiMailbox,
         link: "#contact",
       },
-      // {
-      //   name: "Twitter",
-      //   icon: RxTwitterLogo,
-      //   link: "https://twitter.com",
-      // },
-      // {
-      //   name: "Linkedin",
-      //   icon: RxLinkedinLogo,
-      //   link: "https://linkedin.com",
-      // },
     ],
   },
   {
