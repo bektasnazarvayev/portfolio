@@ -94,6 +94,12 @@ export const FRONTEND_SKILL = [
     height: 80,
   },
   {
+    skill_name: "Laravel",
+    image: "Laravel.png",
+    width: 80,
+    height: 80,
+  },
+  {
     skill_name: "Next.js 14",
     image: "next.png",
     width: 80,
@@ -418,10 +424,10 @@ export const NAV_LINKS = [
     title: "製作事例",
     link: "#projects",
   },
-  {
-    title: "認証",
-    link: "#certification",
-  },
+  // {
+  //   title: "認証",
+  //   link: "#certification",
+  // },
 ] as const;
 
 export const LINKS = {

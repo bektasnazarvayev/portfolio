@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const siteConfig: Metadata = {
-  title: "中村邦彦 | ポートフォリオ",
+  title: "山本拓 | ポートフォリオ",
   description: "WebデザインとWebサイト制作なら、私にお任せください",
   keywords: [
     "reactjs",
@@ -35,7 +35,7 @@ export const siteConfig: Metadata = {
     "css",
   ] as Array<string>,
   authors: {
-    name: "中村邦彦",
-    url: "https://github.com/NakamuraKuhiniko",
+    name: "山本拓",
+    url: "https://github.com/yamataku0518",
   },
 } as const;
