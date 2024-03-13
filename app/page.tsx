@@ -15,7 +15,7 @@ export default function Home() {
         <Skills />
         <Encryption />
         <Projects />
-        <Certification/>
+        {/* <Certification/> */}
         <Contact />
       </div>
     </main>
