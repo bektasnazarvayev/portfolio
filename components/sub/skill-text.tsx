@@ -18,7 +18,7 @@ export const SkillText = () => {
       >
         <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
         <h1 className="Welcome-text text-[16px]">
-          Webデザインとワードプレスコーディングなら、私に任せてください
+        どんな難しいシステム案件にも十分対応できます
         </h1>
       </motion.div>
 
@@ -26,7 +26,7 @@ export const SkillText = () => {
         variants={slideInFromLeft(0.5)}
         className="text-[16px] text-white font-medium mt-[10px] text-center mb-[15px]"
       >
-        私はデザインとワードプレスのエキスパートであり、クライアントの要件を理解し、効果的なウェブソリューションを提供します<br/> デザインの美しさと技術の優れた組み合わせにより、クライアントのブランドイメージを強化し、顧客の関心を引きつけます
+        私は豊富な経験とスキルを備えたシニアエンジニアで、お客様のニーズを理解し、効果的なWebソリューションを提供しています。
       </motion.div>
 
       <motion.div

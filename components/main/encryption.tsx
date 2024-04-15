@@ -45,8 +45,8 @@ export const Encryption = () => {
       </div>
 
       <div className="absolute z-[20] bottom-[10px] px-[5px]">
-        <div className="cursive w-[50%] mx-auto text-[16px] leading-[30px] font-medium text-center text-gray-300">
-          私はWordPressを活用したWebサイトのSEO対策とセキュリティにおいて、豊富な専門知識と実践的な経験を持っています。検索エンジン最適化のための適切なキーワード戦略やメタデータ最適化、さらには外部リンク戦略などを通じて、クライアントのサイトの上位表示を促進します。また、セキュリティ面では、防御策の強化やマルウェア対策などを実施し、クライアントのWebサイトを安全に保護します。
+        <div className="cursive w-[60%] mx-auto text-[16px] leading-[30px] font-medium text-center text-gray-300">
+        私は様々なプログラム言語を活用したシステムのSEOとセキュリティに関する豊富な専門知識と実務経験を持っています。検索エンジン最適化のための適切なキーワード戦略とメタデータの最適化、そして外部リンク戦略などを通じて顧客サイトの上位表示を促進します。 また、セキュリティ面では、防御策の強化、マルウェア対応などを通じて顧客のウェブサイトを安全に保護します。
         </div>
       </div>
 
