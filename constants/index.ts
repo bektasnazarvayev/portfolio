@@ -226,128 +226,128 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "地域の美容院",
+    title: "Local hair salon",
     description:
-      '女性らしいデザイン',
+      'Feminine design',
     image: "/projects/salon.png",
     link: "https://bans-bd.jp/",
   },
   {
-    title: "大手会社",
+    title: "Major companies",
     description:
-      '大手らしい新しいデザイン',
+      'A new design befitting a major company',
     image: "/projects/recruit.png",
     link: "https://recruit.sas-com.com/",
   },
   {
-    title: "配送業者",
+    title: "Delivery company",
     description:
-      '力強く男らしいイメージ',
+      'A strong and masculine image',
     image: "/projects/butsuryu.png",
     link: "https://www.sanyu-butsuryu.com/",
   },
   {
-    title: "保育園",
+    title: "nursery school",
     description:
-      'イラスト多様しグラフィカルなイメージ',
+      'Diverse illustrations and graphical images',
     image: "/projects/midorigaoka.png",
     link: "https://www.midorigaoka-hoiku.com/",
   },
   {
-    title: "スポーツジム",
+    title: "Sports Gym",
     description:
-      '躍動感あるイメージ',
+      'A dynamic image',
     image: "/projects/arrowz.png",
     link: "https://www.sports-science.co.jp/arrowz-gym/",
   },
   {
-    title: "地域のカフェ",
+    title: "Local Cafe",
     description:
-      'ポップな地域カフェのイメージ',
+      'A pop image of a local cafe',
     image: "/projects/caferob.png",
     link: "https://caferob.com/",
   },  
   {
-    title: "地域の病院",
+    title: "Local hospitals",
     description:
-      '信頼感のある地域感',
+      'A trustworthy sense of community',
     image: "/projects/takedc.png",
     link: "https://www.takedc.com/",
   },
   {
-    title: "職人系",
+    title: "Artisan",
     description:
-      '堅さ、信頼さ',
+      'Solidity, reliability',
     image: "/projects/marutoku.png",
     link: "https://www.marutoku-tk.co.jp/",
   },
   {
-    title: "楽商",
+    title: "Easy business",
     description:
-      'アプリ・ソフトウェア',
+      'Apps/Software',
     image: "/projects/rakusyo.png",
     link: "https://www.rakusyo.jp/",
   },
   {
-    title: "Act（アクトチェア）",
+    title: "Act (Act Chair)",
     description:
-      'インテリア・雑貨',
+      'Interior and miscellaneous goods',
     image: "/projects/itoki.png",
     link: "https://www.itoki.jp/",
   },
   {
-    title: "みんなの発酵BLEND",
+    title: "Everyone's Fermentation Blend",
     description:
-      'キッチン・料理・レシピ',
+      'Kitchen, Cooking, Recipes',
     image: "/projects/hakko.png",
     link: "https://www.hakko-blend.com/",
   },
   {
     title: "Y-YACHT STORE &(COOK)",
     description:
-      'キッチン・料理・レシピ',
+      'Kitchen, Cooking, Recipes',
     image: "/projects/yacht.png",
     link: "https://store.y-yacht.co.jp/",
   },
   {
-    title: "地味弁",
+    title: "Plain dialect",
     description:
-      'キッチン・料理・レシピ',
+      'Kitchen, Cooking, Recipes',
     image: "/projects/jimiben.png",
     link: "https://jimiben.com/",
   },
   {
-    title: "wofa | 里山農業を、心うごく世界に",
+    title: "wofa | Bringing Satoyama agriculture to a moving world",
     description:
-      'コーポレートサイト・事務所',
+      'Corporate website/office',
     image: "/projects/wofa.png",
     link: "https://wofa.jp/",
   },
   {
     title: "grav bicycle",
     description:
-      'レジャー・アウトドア',
+     'Leisure and Outdoors',
     image: "/projects/gravbicycle.png",
     link: "https://gravbicycle.com/",
   },
   {
-    title: "Ork「いなか、なかなか」",
+    title: "Ork「Countryside, quite」",
     description:
-      'レジャー・アウトドア',
+      'Leisure and Outdoors',
     image: "/projects/hirugano.png",
     link: "https://ork-hirugano.co.jp/",
   },
   {
-    title: "ナカジマ薬局",
+    title: "Nakajima Pharmacy",
     description:
-      '病院・医療・薬品',
+      'Hospitals, Medical, Pharmaceuticals',
     image: "/projects/nakajima.png",
     link: "https://www.nakajima-phar.co.jp/",
   },
   {
     title: "帯広居酒屋「串焼き・創作料理　よにき」",
     description:
-      '飲食・レストラン・カフェ',
+     'Food & Drinks, Restaurants & Cafes',
     image: "/projects/yoniki.png",
     link: "https://yoniki.jp/",
   },
