@@ -236,7 +236,7 @@ export const PROJECTS = [
     title: "shop",
     description:
       'shop image',
-    image: "/projects/recruit.png",
+    image: "/projects/shop.png",
     link: "https://www.patagonia.com/home/",
   },
   {
@@ -285,7 +285,7 @@ export const PROJECTS = [
     title: "Easy business",
     description:
       'Apps/Software',
-    image: "/projects/rakusyo.png",
+    image: "/projects/app.png",
     link: "https://www.rakusyo.jp/",
   },
   {
@@ -344,13 +344,7 @@ export const PROJECTS = [
     image: "/projects/nakajima.png",
     link: "https://www.nakajima-phar.co.jp/",
   },
-  {
-    title: "帯広居酒屋「串焼き・創作料理　よにき」",
-    description:
-     'Food & Drinks, Restaurants & Cafes',
-    image: "/projects/yoniki.png",
-    link: "https://yoniki.jp/",
-  },
+  
 ] as const;
 
 export const CERTIFICATIONS = [
