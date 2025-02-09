@@ -257,7 +257,7 @@ export const PROJECTS = [
     title: "Sports Gym",
     description:
       'A dynamic image',
-    image: "/projects/gym1.png",
+    image: "/projects/gym2.png",
     link: "https://wholehealth.walmart.com/",
   },
   {
