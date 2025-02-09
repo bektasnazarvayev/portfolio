@@ -44,7 +44,7 @@ export const Contact = () => {
         <meta name="author" content="ali" />
       </Head>
       <div id="contact" className={`${styles.main} ${inter.className}`}>
-        <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-10">お問い合わせ</h1>
+        <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-10">Contact Us</h1>
         <form ref={form} onSubmit={sendEmail} className={styles.form}>
           <div className={styles.formGroup}>
             <label className="text-white mb-5 text-[20px]" htmlFor="user_name">
