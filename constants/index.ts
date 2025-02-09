@@ -233,18 +233,18 @@ export const PROJECTS = [
     link: "https://bans-bd.jp/",
   },
   {
-    title: "Major companies",
+    title: "shop",
     description:
-      'A new design befitting a major company',
+      'shop image',
     image: "/projects/recruit.png",
-    link: "https://recruit.sas-com.com/",
+    link: "https://www.patagonia.com/home/",
   },
   {
     title: "Delivery company",
     description:
       'A strong and masculine image',
     image: "/projects/butsuryu.png",
-    link: "https://www.sanyu-butsuryu.com/",
+    link: "https://www.matson.com/",
   },
   {
     title: "nursery school",
