@@ -25,7 +25,7 @@ export const ProjectCard = ({
         src={src}
         alt={title}
         width={1000}
-        height={1000}
+        height={550}
         className="w-full object-cover"
       />
 
