@@ -24,7 +24,7 @@ export const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
           <h1 className="Welcome-text text-[16px]">
-          エンジニア／PM業務を5年以上経験しています
+          More than 5 years of experience in engineering/PM work
           </h1>
         </motion.div>
 
@@ -34,9 +34,9 @@ export const HeroContent = () => {
         >
           <span>
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              最高
+            Highest
             </span>{" "}
-            のWebサイト、システム開発経験を提供します
+            We provide website and system development experience.
           </span>
         </motion.div>
 
@@ -44,19 +44,19 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-md text-gray-400 my-5 max-w-[600px] leading-[40px]"
         >
-          お客様のヒアリングから要件定義、進捗管理まで幅広く従事。
-          現在、Webに関する仕事を全般的に手がけています。
-          ブロックチェーン技術, AIに対する深い理解と関心を持っており、NFTの再販に関する豊富な経験を持っています。
-          また、アカウントの抽象化をはじめとする最先端のブロックチェーン技術にも深い理解を持っています。
-          些細なことでも丁寧に対応させていただきますので、お気軽にご連絡ください！<br /><br />
-          ・フロントエンド:React、Vue、Next.js、Nuxt.js、他のJavaScriptフレームワーク<br />
-          ・バックエンド:Node.js、ASP.NET、Django、Laravel、Ruby on Rails、FuelPHP、WordPress、Go、C#、Unity、UE5など<br />
-          ・ブロックチェーン：Solidity、Solana、Rustなど<br />
-          ・AI開発：TensorFlow、PyTorch、Scikit-Learn、LangChain、OpenAIなど<br />
-          ・データベース:MongoDB、MySQL、MariaDB、PostgreSQL、SQLiteなど<br />
-          ・モバイルアプリ:React Native、Flutterなど<br />
-          ・サーバー/インフラ:AWS、EC2、S3、Cloudflareなど<br />
-          ・PJMツール:GitHub、Jira、BitBucket、Herokuなど
+          I am involved in a wide range of work, from listening to customers to defining requirements and managing progress.
+Currently, I am working on a wide range of web-related work.
+I have a deep understanding of and interest in blockchain technology and AI, and have extensive experience in the resale of NFTs.
+I also have a deep understanding of cutting-edge blockchain technology, including account abstraction.
+We will respond carefully to even the smallest of inquiries, so please feel free to contact us! <br /><br />
+・Frontend: React, Vue, Next.js, Nuxt.js, other JavaScript frameworks<br />
+・Backend: Node.js, ASP.NET, Django, Laravel, Ruby on Rails, FuelPHP, WordPress, Go, C#, Unity, UE5, etc.<br />
+・Blockchain: Solidity, Solana, Rust, etc.<br />
+・AI development: TensorFlow, PyTorch, Scikit-Learn, LangChain, OpenAI, etc.<br />
+・Database: MongoDB, MySQL, MariaDB, PostgreSQL, SQLite, etc.<br />
+・Mobile apps: React Native, Flutter, etc.<br />
+・Servers/infrastructure: AWS, EC2, S3, Cloudflare, etc.<br />
+・PJM tools: GitHub, Jira, BitBucket, Heroku, etc.
         </motion.p>
 
         <motion.a
@@ -64,7 +64,7 @@ export const HeroContent = () => {
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
           href="#contact"
         >
-          お問い合わせ
+          inquiry
         </motion.a>
       </div>
 

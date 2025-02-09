@@ -40,13 +40,13 @@ export const Encryption = () => {
         </div>
 
         <div className="Welcome-box px-[15px] py-[4px] z-[20] border my-[20px] border-[#7042F88B] opacity-[0.9]">
-          <h1 className="Welcome-text text-[12px]">セキュリティ</h1>
+          <h1 className="Welcome-text text-[12px]">Safety features</h1>
         </div>
       </div>
 
       <div className="absolute z-[20] bottom-[10px] px-[5px]">
         <div className="cursive w-[60%] mx-auto text-[16px] leading-[30px] font-medium text-center text-gray-300">
-        私は様々なプログラム言語を活用したシステムのSEOとセキュリティに関する豊富な専門知識と実務経験を持っています。検索エンジン最適化のための適切なキーワード戦略とメタデータの最適化、そして外部リンク戦略などを通じて顧客サイトの上位表示を促進します。 また、セキュリティ面では、防御策の強化、マルウェア対応などを通じて顧客のウェブサイトを安全に保護します。
+        I have extensive expertise and practical experience in SEO and security of systems using various programming languages. I promote the ranking of client sites through appropriate keyword strategies, metadata optimization, and external link strategies for search engine optimization. In terms of security, I also protect client websites safely through strengthening defense measures and malware response.
         </div>
       </div>
 

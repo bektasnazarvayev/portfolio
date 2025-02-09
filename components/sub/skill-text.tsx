@@ -18,7 +18,7 @@ export const SkillText = () => {
       >
         <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
         <h1 className="Welcome-text text-[16px]">
-        どんな難しいシステム案件にも十分対応できます
+        We can handle any system problem, no matter how complex.
         </h1>
       </motion.div>
 
@@ -26,7 +26,7 @@ export const SkillText = () => {
         variants={slideInFromLeft(0.5)}
         className="text-[16px] text-white font-medium mt-[10px] text-center mb-[15px]"
       >
-        私は豊富な経験とスキルを備えたシニアエンジニアで、お客様のニーズを理解し、効果的なWebソリューションを提供しています。
+        I am a senior engineer with vast experience and skills, who understands the needs of our customers and provides effective web solutions.
       </motion.div>
 
       <motion.div

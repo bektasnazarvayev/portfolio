@@ -37,7 +37,7 @@ export const Contact = () => {
   return (
     <>
       <Head>
-        <title>お問い合わせ</title>
+        <title>Inquiry</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="description" content="Contact us to get in touch with us" />
         <meta name="keywords" content="contact, email, message" />
@@ -48,24 +48,24 @@ export const Contact = () => {
         <form ref={form} onSubmit={sendEmail} className={styles.form}>
           <div className={styles.formGroup}>
             <label className="text-white mb-5 text-[20px]" htmlFor="user_name">
-                氏名
+                full name
             </label>
             <input className="text-white bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500" type="text" id="user_name" name="user_name" required />
           </div>
           <div className={styles.formGroup}>
             <label className="text-white mb-5 text-[20px]" htmlFor="email">
-                メールアドレス
+            email address
             </label>
             <input className="text-white bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500" type="email" id="email" name="user_email" required />
           </div>
           <div className={styles.formGroup}>
             <label className="text-white mb-5 text-[20px]" htmlFor="message">
-                メッセージ
+            message
             </label>
             <textarea className="text-white bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500" rows={8} id="message" name="message" required />
           </div>
           <button className="w-full py-3 text-[20px] button-primary text-center text-white cursor-pointer rounded-lg" type="submit">
-            送信する
+            Send
           </button>
         </form>
       </div>
