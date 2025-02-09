@@ -313,7 +313,7 @@ export const PROJECTS = [
     title: "Plain dialect",
     description:
       'Kitchen, Cooking, Recipes',
-    image: "/projects/jimiben.png",
+    image: "/projects/project-1.png",
     link: "https://jimiben.com/",
   },
   {
