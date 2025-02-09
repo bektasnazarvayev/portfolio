@@ -443,19 +443,19 @@ export const FOOTER_DATA = [
 
 export const NAV_LINKS = [
   {
-    title: "自己紹介",
+    title: "about me",
     link: "#about-me",
   },
   {
-    title: "スキル",
+    title: "skills",
     link: "#skills",
   },
   {
-    title: "製作事例",
+    title: "projects",
     link: "#projects",
   },
   // {
-  //   title: "認証",
+  //   title: "certification",
   //   link: "#certification",
   // },
 ] as const;
