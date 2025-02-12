@@ -233,13 +233,6 @@ export const PROJECTS = [
     link: "https://bans-bd.jp/",
   },
   {
-    title: "shop",
-    description:
-      'shop image',
-    image: "/projects/shop.png",
-    link: "https://www.patagonia.com/home/",
-  },
-  {
     title: "Delivery company",
     description:
       'A strong and masculine image',
