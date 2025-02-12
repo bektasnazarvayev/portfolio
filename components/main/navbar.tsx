@@ -17,7 +17,7 @@ export const Navbar = () => {
             className="cursor-pointer hover:animate-slowspin"
           />
           <div className="font-bold ml-[10px] hidden md:block text-gray-300">
-          Bektas Nazarvayev
+          Roman Kuchkuda
           </div>
         </Link>
 

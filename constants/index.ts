@@ -246,13 +246,7 @@ export const PROJECTS = [
     image: "/projects/butsuryu.png",
     link: "https://www.matson.com/",
   },
-  {
-    title: "nursery school",
-    description:
-      'Diverse illustrations and graphical images',
-    image: "/projects/midorigaoka.png",
-    link: "https://www.midorigaoka-hoiku.com/",
-  },
+  
   {
     title: "Sports Gym",
     description:
@@ -260,90 +254,7 @@ export const PROJECTS = [
     image: "/projects/gym2.png",
     link: "https://wholehealth.walmart.com/",
   },
-  {
-    title: "Local Cafe",
-    description:
-      'A pop image of a local cafe',
-    image: "/projects/caferob.png",
-    link: "https://caferob.com/",
-  },  
-  {
-    title: "Local hospitals",
-    description:
-      'A trustworthy sense of community',
-    image: "/projects/takedc.png",
-    link: "https://www.takedc.com/",
-  },
-  {
-    title: "Artisan",
-    description:
-      'Solidity, reliability',
-    image: "/projects/marutoku.png",
-    link: "https://www.marutoku-tk.co.jp/",
-  },
-  {
-    title: "Easy business",
-    description:
-      'Apps/Software',
-    image: "/projects/app.png",
-    link: "https://www.rakusyo.jp/",
-  },
-  {
-    title: "Act (Act Chair)",
-    description:
-      'Interior and miscellaneous goods',
-    image: "/projects/itoki.png",
-    link: "https://www.itoki.jp/",
-  },
-  {
-    title: "Everyone's Fermentation Blend",
-    description:
-      'Kitchen, Cooking, Recipes',
-    image: "/projects/hakko.png",
-    link: "https://www.hakko-blend.com/",
-  },
-  {
-    title: "Y-YACHT STORE &(COOK)",
-    description:
-      'Kitchen, Cooking, Recipes',
-    image: "/projects/yacht.png",
-    link: "https://store.y-yacht.co.jp/",
-  },
-  {
-    title: "Plain dialect",
-    description:
-      'Kitchen, Cooking, Recipes',
-    image: "/projects/project-1.png",
-    link: "https://jimiben.com/",
-  },
-  {
-    title: "wofa | Bringing Satoyama agriculture to a moving world",
-    description:
-      'Corporate website/office',
-    image: "/projects/wofa.png",
-    link: "https://wofa.jp/",
-  },
-  {
-    title: "grav bicycle",
-    description:
-     'Leisure and Outdoors',
-    image: "/projects/gravbicycle.png",
-    link: "https://gravbicycle.com/",
-  },
-  {
-    title: "Ork「Countryside, quite」",
-    description:
-      'Leisure and Outdoors',
-    image: "/projects/hirugano.png",
-    link: "https://ork-hirugano.co.jp/",
-  },
-  {
-    title: "Nakajima Pharmacy",
-    description:
-      'Hospitals, Medical, Pharmaceuticals',
-    image: "/projects/nakajima.png",
-    link: "https://www.nakajima-phar.co.jp/",
-  },
+     
   
 ] as const;
 

@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const siteConfig: Metadata = {
-  title: "山本拓 | ポートフォリオ",
-  description: "WebデザインとWebサイト制作なら、私にお任せください",
+  title: "Roman Kuchkuda",
+  description: "perfect site",
   keywords: [
     "reactjs",
     "nextjs",
@@ -35,7 +35,7 @@ export const siteConfig: Metadata = {
     "css",
   ] as Array<string>,
   authors: {
-    name: "山本拓",
+    name: "Roman Kuchkuda",
     url: "https://github.com/yamataku0518",
   },
 } as const;
